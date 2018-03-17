@@ -1,4 +1,4 @@
-board = [" ",]
+board = [" "," "," "," "," "," "," "," "," ",]
 def turn_count(board).each |position|
   counter = 0 
   if position == "X" || position == "O"
